@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hannah-joseph! I am a senior Biology major and a research assistant for Integrative Ecology Lab at Temple University.
+- 👋 Hi, I’m @hannah-joseph! I am a research technician for Integrative Ecology Lab (iEcoLab) at Temple University.
 - 👀 I have experience in R, Python, and Prompt Engineering.
 - 🌱 I’m currently learning how to perform data analysis using R and Python. Additionally, I am also learning about Machine Learning and Deep Learning. 
-- 😄 Pronouns: she/hers/her
+- 😄 I have a Bachelor's in Biology at Temple University
 
 <!---
 hannah-joseph/hannah-joseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
