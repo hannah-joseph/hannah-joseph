@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @hannah-joseph! I am a research technician for Integrative Ecology Lab (iEcoLab) at Temple University.
-- 👀 I have experience in R, Python, and Prompt Engineering.
-- 🌱 I’m currently learning how to perform data analysis using R and Python. Additionally, I am also learning about Machine Learning and Deep Learning. 
-- 😄 I have a Bachelor's in Biology at Temple University
+👋 Hi, I’m Hannah Joseph!
+- I am a research technician for Integrative Ecology Lab (iEcoLab) at Temple University.
+- I have experience in R, Python, JavaScript, and MySQL.
+- I am currently learning to develop web applications to visualize and monitor map locations that are considered likely to spread invasive
+species depending on their spread mechanisms and feeding preferences
 
 <!---
 hannah-joseph/hannah-joseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
