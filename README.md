@@ -1,4 +1,4 @@
-👋 Hi, I’m Hannah Joseph!
+👋 Hi, I’m Hannah!
 - I am a research technician for Integrative Ecology Lab (iEcoLab) at Temple University.
 - I have experience in R, Python, JavaScript, and MySQL.
 - I am currently learning to develop web applications to visualize and monitor map locations that are considered likely to spread invasive
